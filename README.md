@@ -6,8 +6,8 @@
 
 ## Requirements
 torch == 2.1; python == 3.1
-## Install [SAM](https://github.com/facebookresearch/segment-anything.git) base model
-## For the code, please refer to [Mask-free-OVIS](https://github.com/Vibashan/Mask-free-OVIS)
+### Install [SAM](https://github.com/facebookresearch/segment-anything.git) base model
+### For the code, please refer to [Mask-free-OVIS](https://github.com/Vibashan/Mask-free-OVIS)
 ## BibTeX
 @article{Ma2024APOVISAP,
   title={APOVIS: Automated pixel-level open-vocabulary instance segmentation through integration of pre-trained vision-language models and foundational segmentation models},
